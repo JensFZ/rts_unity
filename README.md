@@ -197,7 +197,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the project_license. See `LICENSE.txt` for more information.
+Distributed under the project_license. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -236,7 +236,7 @@ Project Link: [https://github.com/JensFZ/rts_unity](https://github.com/JensFZ/rt
 [issues-shield]: https://img.shields.io/github/issues/JensFZ/rts_unity.svg?style=for-the-badge
 [issues-url]: https://github.com/JensFZ/rts_unity/issues
 [license-shield]: https://img.shields.io/github/license/JensFZ/rts_unity.svg?style=for-the-badge
-[license-url]: https://github.com/JensFZ/rts_unity/blob/master/LICENSE.txt
+[license-url]: https://github.com/JensFZ/rts_unity/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
